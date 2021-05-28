@@ -1,2 +1,3 @@
-# reaux
-React hooks for global state
+# Reaux
+
+React hooks for global state management
